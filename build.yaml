@@ -20,4 +20,4 @@
 ---
 include:
   - board: seeeduino_xiao_rp2040
-    shield: romac
+    shield: 9keyrp2040

@@ -1,0 +1,6 @@
+if SHIELD_9KEYRP2040
+
+config ZMK_KEYBOARD_NAME
+    default "9keyrp2040"
+
+endif

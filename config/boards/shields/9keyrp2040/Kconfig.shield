@@ -1,0 +1,2 @@
+config SHIELD_9KEYRP2040
+def_bool $(shields_list_contains, 9keyrp2040)
